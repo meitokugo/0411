@@ -1,0 +1,19 @@
+<html>
+    <head>
+        <script type = "text/javascript"
+        src="{{url_for('static',filename='hello.js')}}">        </script>
+    </head>
+
+    <body>
+        <input type="button" onclick="sayHello()" value="Say Hello" />
+    </body>
+
+</html>
+
+<!--客户端网页的数据作为全局请求对象发送到服务器，为了处理请求数据，应该从Flask模块导入-->
+<!--Request对象有如下属性，
+Form字典对象，包含表单参数以及值的键和值对
+args解析查询字符的内容，是问号？后的一部分
+Cookies 保存Cookie名称和值的字典对象
+files 与上传文件有关的数据
+method当前请求方法-->
