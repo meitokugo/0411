@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-23T08:16:47.195Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="Mce2ZzM0Nh2fWQUZpqPK" version="18.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-23T08:21:08.504Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="WegtndsQDQ4_Y7Oswind" version="18.1.1" type="github">
   <diagram name="Page-1" id="5d7acffa-a066-3a61-03fe-96351882024d">
-    <mxGraphModel dx="1411" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1411" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -215,7 +215,7 @@
           <mxGeometry y="86" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QfOvfZEYxWu6-JOHQhAf-133" value="作業記録" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;rounded=1;fillColor=#E0E0E0;" vertex="1" parent="1">
-          <mxGeometry x="890" y="474" width="160" height="86" as="geometry" />
+          <mxGeometry x="900" y="474" width="160" height="86" as="geometry" />
         </mxCell>
         <mxCell id="QfOvfZEYxWu6-JOHQhAf-134" value="作業記録表示" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;rounded=1;" vertex="1" parent="QfOvfZEYxWu6-JOHQhAf-133">
           <mxGeometry y="26" width="160" height="30" as="geometry" />
